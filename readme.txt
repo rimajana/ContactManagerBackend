@@ -1,3 +1,5 @@
+MERN STACK IMPLEMENTATION -1
+------------------------------------------------------------------------------------------------------------------------------------------
 I. Contact Manager is an website where an user logs in /registers if he doesn't has an account.Then he can store all his contacts.
 
 II. Functionality:
